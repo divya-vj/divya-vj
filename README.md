@@ -7,7 +7,7 @@ deploying it somewhere people can actually use it.
 
 - 🔭 I'm currently working on a **Retail Supply Chain Risk Prediction System** using XGBoost + SHAP + LLM recommendations
 
-- 🌱 I'm currently learning **Machine Learning** and **AI Agents**and**DSA**
+- 🌱 I'm currently learning **Machine Learning** and **AI Agents** and **DSA**
 
 - 💻 All of my projects are available at [github.com/divya-vj](https://github.com/divya-vj)
 
